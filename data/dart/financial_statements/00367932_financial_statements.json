@@ -1,0 +1,102 @@
+{
+  "corp_code": "00367932",
+  "registration_number": "1801110262989",
+  "financial_statements": [
+    {
+      "response": {
+        "body": {
+          "items": {
+            "item": []
+          },
+          "numOfRows": 1,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        }
+      }
+    },
+    {
+      "response": {
+        "body": {
+          "items": {
+            "item": []
+          },
+          "numOfRows": 1,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        }
+      }
+    },
+    {
+      "response": {
+        "body": {
+          "items": {
+            "item": []
+          },
+          "numOfRows": 1,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        }
+      }
+    },
+    {
+      "response": {
+        "body": {
+          "items": {
+            "item": []
+          },
+          "numOfRows": 1,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        }
+      }
+    },
+    {
+      "response": {
+        "body": {
+          "items": {
+            "item": []
+          },
+          "numOfRows": 1,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        }
+      }
+    },
+    {
+      "response": {
+        "body": {
+          "items": {
+            "item": []
+          },
+          "numOfRows": 1,
+          "pageNo": 1,
+          "totalCount": 0
+        },
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        }
+      }
+    }
+  ]
+}
